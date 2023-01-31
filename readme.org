@@ -1,0 +1,3 @@
+* hoodiemoder.com
+
+Website hosted on a VPS, currently used for redirection to https://hoodiemoder.github.io
